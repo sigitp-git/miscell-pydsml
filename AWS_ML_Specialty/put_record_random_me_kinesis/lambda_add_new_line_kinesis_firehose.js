@@ -1,5 +1,5 @@
 'use strict';
-console.log('Loading function');
+console.log('Loading function, Kinesis Firehose, transform data before saving to S3, add line break to end of data');
 
 exports.handler = (event, context, callback) => {
     /* Process the list of records and transform them */
