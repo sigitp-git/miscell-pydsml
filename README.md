@@ -6,3 +6,5 @@
 - Seaborn
 - Plotly + Cufflinks
 - AWS Machine Learning
+	- AWS Glue
+		- Glue Job Pyspark
